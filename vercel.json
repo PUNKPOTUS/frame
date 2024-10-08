@@ -1,7 +1,7 @@
 {
   "headers": [
     {
-      "source": "/(.*)", // This applies the CORS headers to all paths.
+      "source": "/(.*)", 
       "headers": [
         {
           "key": "Access-Control-Allow-Origin",
